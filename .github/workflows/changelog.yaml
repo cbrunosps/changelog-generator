@@ -1,13 +1,15 @@
-name: Changelog
+name: Changelog CI
+
 on:
-  release:
-    types:
-      - created
+  pull_request:
+    types: [ opened ]
+
 jobs:
-  changelog:
-    runs-on: ubuntu-20.04
+  build:
+    runs-on: ubuntu-latest
+
     steps:
-      - name: "✏️ Generate release changelog"
-        uses: heinrichreimer/github-changelog-generator-action@v2.3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }} 
+      - uses: actions/checkout@v2
+
+      - name: Run Changelog CI
+        uses: saadmk11/changelog-ci@v1.1.0
