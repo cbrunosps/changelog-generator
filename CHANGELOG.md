@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/cbrunosps/changelog-generator/compare/v1.1.0...v1.2.0) (2022-12-20)
+
+
+### Features
+
+* new beatiful feat ([c3d2076](https://github.com/cbrunosps/changelog-generator/commit/c3d207639503baccf7c34459198eb3722a581398))
+
+
+### Bug Fixes
+
+* bye bye to old changelog workflows ([4f83859](https://github.com/cbrunosps/changelog-generator/commit/4f838596f97811414601714b3bd7e417f8733239))
+
 ## [1.1.0](https://github.com/cbrunosps/changelog-generator/compare/1.0.0...v1.1.0) (2022-12-20)
 
 
