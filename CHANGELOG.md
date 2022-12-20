@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/cbrunosps/changelog-generator/compare/v2.0.0...v3.0.0) (2022-12-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* another braking change
+
+### Bug Fixes
+
+* another braking change ([243c695](https://github.com/cbrunosps/changelog-generator/commit/243c6956c2d2e91b7a640cef950203561afabb5e))
+
 ## [2.0.0](https://github.com/cbrunosps/changelog-generator/compare/v1.2.0...v2.0.0) (2022-12-20)
 
 
