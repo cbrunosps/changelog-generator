@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/cbrunosps/changelog-generator/compare/v1.2.0...v2.0.0) (2022-12-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* Changing release type for python.
+
+### Features
+
+* python release ([7c63e40](https://github.com/cbrunosps/changelog-generator/commit/7c63e40a6feccae1fda22dbcb2cdbd945ae67b62))
+
 ## [1.2.0](https://github.com/cbrunosps/changelog-generator/compare/v1.1.0...v1.2.0) (2022-12-20)
 
 
