@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.2.0](https://github.com/spsdevops/changelog-generator/compare/v3.1.0...v3.2.0) (2023-07-11)
+
+
+### Features
+
+* nuevo archivo ([7304585](https://github.com/spsdevops/changelog-generator/commit/7304585fa22a6bd482cb7e79509bae061b9ef781))
+
+
+### Documentation
+
+* Se anexó documentación ([d030cff](https://github.com/spsdevops/changelog-generator/commit/d030cffb745f80246591222022ed7ccae3a91f8e))
+
 ## [3.1.0](https://github.com/spsdevops/changelog-generator/compare/v3.0.0...v3.1.0) (2023-07-11)
 
 
