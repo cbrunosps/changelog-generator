@@ -1,5 +1,16 @@
 # Changelog
 
+## [4.0.0](https://github.com/spsdevops/changelog-generator/compare/v3.2.0...v4.0.0) (2023-07-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* nuevo cambio en funcion
+
+### Features
+
+* nuevo cambio en funcion ([8173a28](https://github.com/spsdevops/changelog-generator/commit/8173a289867bd9d32fec9250bcfd9aa4ba558505))
+
 ## [3.2.0](https://github.com/spsdevops/changelog-generator/compare/v3.1.0...v3.2.0) (2023-07-11)
 
 
