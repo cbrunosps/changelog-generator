@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://github.com/spsdevops/changelog-generator/compare/v3.0.0...v3.1.0) (2023-07-11)
+
+
+### Features
+
+* feature branch commit ([ea64e21](https://github.com/spsdevops/changelog-generator/commit/ea64e219a8723dfbdb6e282bdd9818413d9609e1))
+
 ## [3.0.0](https://github.com/cbrunosps/changelog-generator/compare/v2.0.0...v3.0.0) (2022-12-20)
 
 
