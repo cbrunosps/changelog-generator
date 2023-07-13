@@ -11,4 +11,5 @@ jobs:
         with:
           release-type: python
           package-name: release-please-action
+          skip-github-release: true
 
