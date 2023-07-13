@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.0](https://github.com/spsdevops/changelog-generator/compare/v4.0.1...v4.1.0) (2023-07-13)
+
+
+### Features
+
+* Se omite creación de release ([87764a2](https://github.com/spsdevops/changelog-generator/commit/87764a201c31d61d7f1af925a67a29c9d6b42d6f))
+
 ## [4.0.1](https://github.com/spsdevops/changelog-generator/compare/v4.0.0...v4.0.1) (2023-07-13)
 
 
